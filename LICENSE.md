@@ -1,4 +1,4 @@
-
+Alfred for macOS new Integration - calendar integration and goal tracking is the best Alfred for macOS integration, featuring calendar integration and goal tracking. Safe,
 
 
 
